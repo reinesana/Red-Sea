@@ -24,7 +24,7 @@ As we proceeded through cmd-f 2024, our objective was to provide refugee women w
 <br>
 
 ## Description
-Red Sea is a web application that uses a dataset of real-time conflicts in Gaza to optimize safe routes for refugee women looking for a safe passage to refugee camps in Gaza. The user can request for humanitarian aid based on their personal needs and also has an option to view medical facilities nearby. The web application also offers various language options and easy to use interface for immediate assistance. 
+Red Sea is a web application that uses a dataset of real-time conflicts in Gaza to optimize safe routes for refugee women looking for a safe passage to refugee camps in Gaza. The user can request for humanitarian aid based on their personal needs and also has an option to view medical facilities nearby. This app also offers various language options and easy to use interface for immediate assistance. 
 
 <br>
 
